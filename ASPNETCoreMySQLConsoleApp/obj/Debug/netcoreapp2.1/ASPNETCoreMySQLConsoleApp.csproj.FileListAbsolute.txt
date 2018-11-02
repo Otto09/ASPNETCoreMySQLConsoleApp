@@ -1,0 +1,11 @@
+C:\Users\gogao\source\repos\ASPNETCoreMySQLConsoleApp\ASPNETCoreMySQLConsoleApp\bin\Debug\netcoreapp2.1\ASPNETCoreMySQLConsoleApp.deps.json
+C:\Users\gogao\source\repos\ASPNETCoreMySQLConsoleApp\ASPNETCoreMySQLConsoleApp\bin\Debug\netcoreapp2.1\ASPNETCoreMySQLConsoleApp.runtimeconfig.json
+C:\Users\gogao\source\repos\ASPNETCoreMySQLConsoleApp\ASPNETCoreMySQLConsoleApp\bin\Debug\netcoreapp2.1\ASPNETCoreMySQLConsoleApp.runtimeconfig.dev.json
+C:\Users\gogao\source\repos\ASPNETCoreMySQLConsoleApp\ASPNETCoreMySQLConsoleApp\bin\Debug\netcoreapp2.1\ASPNETCoreMySQLConsoleApp.dll
+C:\Users\gogao\source\repos\ASPNETCoreMySQLConsoleApp\ASPNETCoreMySQLConsoleApp\obj\Debug\netcoreapp2.1\ASPNETCoreMySQLConsoleApp.csprojAssemblyReference.cache
+C:\Users\gogao\source\repos\ASPNETCoreMySQLConsoleApp\ASPNETCoreMySQLConsoleApp\obj\Debug\netcoreapp2.1\ASPNETCoreMySQLConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gogao\source\repos\ASPNETCoreMySQLConsoleApp\ASPNETCoreMySQLConsoleApp\obj\Debug\netcoreapp2.1\ASPNETCoreMySQLConsoleApp.AssemblyInfoInputs.cache
+C:\Users\gogao\source\repos\ASPNETCoreMySQLConsoleApp\ASPNETCoreMySQLConsoleApp\obj\Debug\netcoreapp2.1\ASPNETCoreMySQLConsoleApp.AssemblyInfo.cs
+C:\Users\gogao\source\repos\ASPNETCoreMySQLConsoleApp\ASPNETCoreMySQLConsoleApp\bin\Debug\netcoreapp2.1\ASPNETCoreMySQLConsoleApp.pdb
+C:\Users\gogao\source\repos\ASPNETCoreMySQLConsoleApp\ASPNETCoreMySQLConsoleApp\obj\Debug\netcoreapp2.1\ASPNETCoreMySQLConsoleApp.dll
+C:\Users\gogao\source\repos\ASPNETCoreMySQLConsoleApp\ASPNETCoreMySQLConsoleApp\obj\Debug\netcoreapp2.1\ASPNETCoreMySQLConsoleApp.pdb
