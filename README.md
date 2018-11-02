@@ -1,2 +1,2 @@
 #ASPNETCoreMySQLConsoleApp
-This is an ASP.NET Core Console Application from an existing MySQL Database 
+This is an ASP.NET Core Console Application for an existing MySQL Database 
